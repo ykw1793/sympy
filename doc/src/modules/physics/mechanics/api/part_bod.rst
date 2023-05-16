@@ -45,4 +45,6 @@ Other Functions
 
 .. autofunction:: sympy.physics.mechanics.functions.potential_energy
 
+.. autofunction:: sympy.physics.mechanics.functions.center_of_mass
+
 .. autofunction:: sympy.physics.mechanics.functions.Lagrangian
